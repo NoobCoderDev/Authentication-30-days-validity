@@ -1,0 +1,33 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables and settings
+.env
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+users.db
+
+# Cache and other generated files
+instance/
+*.pyc
+*.pyo
+*.cache
+*.egg-info/
